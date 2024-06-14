@@ -13,8 +13,9 @@
         Curabitur dapibus ex sit amet tellus rhoncus, eu mollis metus fermentum.</p>
 </div>
 <p>
-    <button><a href="index.php?page=order_input">Pilih</a></button>
+    <button><a href="index.php?page=model_hijab">Pilih</a></button>
 </p>
+
 
 <h1>HIJAB PARIS PREMIUM</h1>
 <div class="image-container">

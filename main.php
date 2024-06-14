@@ -19,31 +19,29 @@
         <div class="paket">
 
             <div class="kartu">
-                <img src="images/hijabsilk.jpeg" alt="" width="300px" height="250px">
+            <a href="index.php?page=model_hijab"><img src="images/hijabsilk.jpeg" alt="" width="300px" height="250px"></a>
                 <h3>HIJAB SILK</h3>
                 <p>By : Hijab modern</p>
-                <a href="index.php?page=order_jenis">Pilih</a>
             </div>
 
             <div class="kartu">
-                <img src="images/hijabparis.jpeg" alt="" width="300px" height="250px">
+            <a href="index.php?page=model_hijab2"><img src="images/hijabparis.jpeg" alt="" width="300px" height="250px"></a>
                 <h3>HIJAB PARIS</h3>
                 <p>By : Hijab modern</p>
-                <a href="index.php?page=order_jenis">Pilih</a>
             </div>
 
             <div class="kartu">
                 <img src="images/hijabpashmina.jpeg" alt="" width="346px" height="250px">
                 <h3>HIJAB PASHMINA</h3>
                 <p>By : Hijab modern</p>
-                <a href="index.php?page=order_jenis">Pilih</a>
+                <a href="index.php?page=model_hijab3">PILIH WARNA</a>
             </div>
 
             <div class="kartu">
                 <img src="images/hijabsport.jpeg" alt="" width="346px" height="250px">
                 <h3>HIJAB SPORT</h3>
                 <p>By : Hijab modern</p>
-                <a href="index.php?page=order_jenis">Pilih</a>
+                <a href="index.php?page=model_hijab">PILIH WARNA</a>
         </div>    
         </div>
 

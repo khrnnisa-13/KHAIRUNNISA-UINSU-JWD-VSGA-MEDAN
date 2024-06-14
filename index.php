@@ -23,7 +23,7 @@
                 <li><a href="index.php?page=order_input">PEMESANAN</a></li>
                 <li><a href="index.php?page=order_tampil">DAFTAR PESANAN</a></li>
                 <li><a href="index.php?page=kontak">KONTAK</a></li>
-                <div class="dropdown">
+                    <div class="dropdown">
                     <button class="dropbtn">ABOUT<i class="fa fa-caret-down"></i></button>
                     <div class="dropdown-content">
                         <a href="index.php?page=about_sejarah">Sejarah Usaha</a>
@@ -31,22 +31,18 @@
                         <a href="index.php?page=about_alamat">Alamat</a>
                     </div>
                 </div> 
-                <li>
-                    <a href="index.php?page=login.php">LOGIN</a>
-                </li>
+                <li><a href="index.php?page=login.php">LOGIN</a></li>
             </ul>
         </nav>
         
         <main>
             <?php
-
                 if (isset($_GET['page'])) {
                     require $_GET['page']. ".php";
                 } else {
                     require "main.php";
                 }
-             ?>
-
+            ?>
         </main>
 
         <footer>

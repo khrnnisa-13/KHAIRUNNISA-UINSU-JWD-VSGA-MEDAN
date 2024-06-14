@@ -16,7 +16,6 @@
 
         <?php
         if ($_SERVER['REQUEST_METHOD'] == 'POST' && !empty($_POST['address'])) {
-            $address = urlencode($_POST['address']);
             echo '<h2>Map for: ' . htmlspecialchars($_POST['address']) . '</h2>';
             echo '<iframe
                     width="600"

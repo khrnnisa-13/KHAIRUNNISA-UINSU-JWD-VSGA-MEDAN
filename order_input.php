@@ -23,10 +23,10 @@
         <tr>
             <td>JENIS</td>
             <td><select name="order_jenis">
-                <option value="1">SILK</option>
-                <option value="2">PARIS</option>
-                <option value="3">PASHMINA</option>
-                <option value="4">SPORT</option>
+                <option value="SILK">SILK</option>
+                <option value="PARIS">PARIS</option>
+                <option value="PASHMINA">PASHMINA</option>
+                <option value="SPORT">SPORT</option>
             </select></td>
         </tr>
         <tr>
